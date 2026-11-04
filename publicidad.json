@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "activo": true,
+  "tipo": "playlist",
+  "playlist_id": "PLKILNCx3VtD6ceqXvEs0wyJg-XsFbelF1",
+  "video_inicial": "j2guSepUVq8",
+  "espera_inicio_segundos": 300,
+  "reproduccion_automatica": true,
+  "reproduccion_continua": true,
+  "permitir_ventana_independiente": true
+}
